@@ -12,3 +12,5 @@ There are 2 scenes I made (Objects1.txt and Objects2.txt) but you can make new o
 PS : Don't mind the jank colors when the sum goes over 100%.
 
 (to do : fix jank color sum, add light reflexion with vectorial product)
+
+# I am remaking this in C++ and it works much better.
